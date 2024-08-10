@@ -35,6 +35,7 @@ rebuild the driver:
 bash
 
 make clean
+
 sudo ./autorun.sh
 
 Install and Load the Driver:
