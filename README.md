@@ -25,15 +25,12 @@ Steps to Apply the Fix
 
     Clone the Repository:
 
-    bash
-
 git clone https://github.com/oskarihir/Realtek-RTL8125-Driver-fix-.git
 
 cd rtl8125-kernel6.9.3-fix
 
-Build the Driver:
 
-After applying the patch, clean any previous build artifacts and rebuild the driver:
+rebuild the driver:
 
 bash
 
