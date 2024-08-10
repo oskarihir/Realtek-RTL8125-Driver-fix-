@@ -1,0 +1,1 @@
+savedcmd_/home/ose/Lataukset/r8125-9.013.02/src/r8125.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/ose/Lataukset/r8125-9.013.02/src/r8125.ko /home/ose/Lataukset/r8125-9.013.02/src/r8125.o /home/ose/Lataukset/r8125-9.013.02/src/r8125.mod.o

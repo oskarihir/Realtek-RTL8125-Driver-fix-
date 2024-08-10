@@ -1,0 +1,1 @@
+savedcmd_/home/ose/Lataukset/r8125-9.013.02/src/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/ose/Lataukset/r8125-9.013.02/src/Module.symvers -T /home/ose/Lataukset/r8125-9.013.02/src/modules.order -i Module.symvers -e 
