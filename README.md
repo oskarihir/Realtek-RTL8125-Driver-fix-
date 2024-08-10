@@ -38,15 +38,7 @@ git clone https://github.com/oskarihir/Realtek-RTL8125-Driver-fix-.git
 cd rtl8125-kernel6.9.3-fix
 ```
 
-### 2. Apply the Patch
-
-The repository includes a patch file that addresses the function pointer type mismatch. Apply it with the following command:
-
-```bash
-patch -p1 < fix_rtl8125_for_kernel6.9.3.patch
-```
-
-### 3. Rebuild the Driver
+### 2. Rebuild the Driver
 
 Clean any previous build artifacts and rebuild the driver:
 
@@ -55,7 +47,7 @@ make clean
 sudo ./autorun.sh
 ```
 
-### 4. Install and Load the Driver
+### 3. Install and Load the Driver
 
 The `autorun.sh` script will install the driver. After installation, load it using:
 
@@ -63,7 +55,7 @@ The `autorun.sh` script will install the driver. After installation, load it usi
 sudo modprobe r8125
 ```
 
-### 5. Verify the Installation
+### 4. Verify the Installation
 
 Ensure the driver is correctly installed and loaded by running:
 
