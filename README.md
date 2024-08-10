@@ -2,7 +2,7 @@ Here’s a more polished and easier-to-read version of the README:
 
 ---
 
-# 🌐 Realtek RTL8125 Driver Fix for Linux Kernel 6.9.3-76060903-generic
+# 🌐 Realtek RTL8125 Driver Fix for Linux Kernel 6.9.3-76060903-generic https://www.realtek.com/Download/ToDownload?type=direct&downloadid=3763
 
 ## 📄 Overview
 
