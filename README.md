@@ -27,16 +27,9 @@ Steps to Apply the Fix
 
     bash
 
-git clone https://github.com/yourusername/rtl8125-kernel6.9.3-fix.git
+git clone https://github.com/oskarihir/Realtek-RTL8125-Driver-fix-.git
+
 cd rtl8125-kernel6.9.3-fix
-
-Apply the Patch:
-
-A patch file is provided to fix the type mismatch. You can apply it as follows:
-
-bash
-
-patch -p1 < fix_rtl8125_for_kernel6.9.3.patch
 
 Build the Driver:
 
